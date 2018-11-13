@@ -1,1 +1,1 @@
-# sickness_pj
+# Project Psit
