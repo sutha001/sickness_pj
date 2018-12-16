@@ -16,4 +16,6 @@ http://service.nso.go.th/nso/web/statseries/statseries09.html
 
 ## สมาชิกในกลุ่ม
 นาย ฐิติพัฒน์ อริยรัตนา (60070021)  
+นาย สุธา บินกามิตร์ (61070248)
+
   
