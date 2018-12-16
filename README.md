@@ -15,3 +15,5 @@ http://service.nso.go.th/nso/web/statseries/statseries09.html
 รศ.ดร. โชติพัชร์ ภรณวลัย 
 
 ## สมาชิกในกลุ่ม
+นาย ฐิติพัฒน์ อริยรัตนา (60070021)  
+  
